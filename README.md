@@ -1,4 +1,4 @@
-# Rails Turorial
+# Rails Tutorial
 
 
 ## コンセプト
@@ -19,7 +19,7 @@ Ruby on Rails を30代のおじさんが勉強する。
 
 Mac Book Air 13"
 - HDD/128GB
-- RAM/8MB
+- RAM/8GB
 
 ## 目標
 
