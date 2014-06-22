@@ -34,7 +34,7 @@ $ rails -v
 Rails 4.1.1
 ```
 
-Rails TutorialのGemfileは学習辞典で`ruby '2.0.0'`、
+Rails TutorialのGemfileは学習時点で`ruby '2.0.0'`、
 `gem 'rails', '4.0.5'`となっていので、ややTutorialのほうがバージョンが古い。
 
 
