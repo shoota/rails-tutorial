@@ -17,9 +17,27 @@ Ruby on Rails を30代のおじさんが勉強する。
 
 ### おじさんの環境
 
-Mac Book Air 13"
-- HDD/128GB
-- RAM/8GB
+#### Mac Book Air 13"
+
+* OS X 10.9.3 (Mavericks)
+* CPU : 1.7 GHz Intel Core i7
+* HDD : 128GB
+* RAM : 8GB
+
+
+#### Version
+
+``` shell
+$ ruby -v
+ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-darwin13.0]
+$ rails -v
+Rails 4.1.1
+```
+
+Rails TutorialのGemfileは学習辞典で`ruby '2.0.0'`、
+`gem 'rails', '4.0.5'`となっていので、ややTutorialのほうがバージョンが古い。
+
+
 
 ## 目標
 
