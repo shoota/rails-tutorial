@@ -19,7 +19,7 @@ Ruby on Rails を30代のおじさんが勉強する。
 
 #### Mac Book Air 13"
 
-* OS X 10.9.3 (Mavericks)
+* OS X 10.9.3 (Marvericks)
 * CPU : 1.7 GHz Intel Core i7
 * HDD : 128GB
 * RAM : 8GB
